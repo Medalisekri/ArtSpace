@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/948605dc-a276-4c2b-9cca-6a2cc352df9a" />Art Space 
+Art Space 
 
 Une application Android de galerie d'art virtuelle permettant de naviguer entre différentes œuvres, développée avec **Jetpack Compose**.
 
@@ -51,9 +51,9 @@ com.example.artspace/
 <img width="1920" height="1080" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/e0f86f5c-4a17-4bce-a986-b59afdc572d4" />
 
 <img width="1920" height="1080" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/691ec5ca-487b-4d5a-aa7f-e050bbb515cb" />
-<img width="1920" height="1080" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/692a1a73-9d37-4453-a3c8-1abf793d9069" />
 
+<img width="1766" height="1004" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/16b08690-494a-4bff-aa9e-bd85d8a38c95" />
+<img width="1749" height="1019" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/98672c02-2fcd-4fea-baf4-70a911def105" />
 
-<img width="1920" height="1080" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/d6e15bfd-308a-4cd2-b61b-cc191ad2c614" />
 
 
